@@ -1,6 +1,6 @@
 # SOLID Principles practice
 
-<b color = "red">S -</b> Single Responsibility
+<b colour = "red">S -</b> Single Responsibility
 
 <b>O -</b> Open/Close Principle
 
