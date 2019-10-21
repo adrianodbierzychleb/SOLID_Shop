@@ -2,7 +2,7 @@
 
 <b colour = "red">S -</b> Single Responsibility
 
-<b>O -</b> Open/Close Principle
+<b><font colour="red">O</font> -</b> Open/Close Principle
 
 <b>L -</b> Liskov Substitution
 
